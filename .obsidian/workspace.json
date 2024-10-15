@@ -19,8 +19,12 @@
             "id": "45200ed01c391e61",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Reserch process/1. Introduction/研究目的.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Reserch process/1. Introduction/研究目的.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Reserch process/1. Introduction/研究目的.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Reserch process/1. Introduction/研究目的.md"
+              }
             }
           },
           {
@@ -154,10 +162,11 @@
       "daily-notes:開啟今天的每日筆記": false,
       "templates:插入模板": false,
       "command-palette:開啟命令面板": false,
-      "audio-recorder:開始/停止錄音": false
+      "audio-recorder:開始/停止錄音": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5292f4c0bba34dbe",
+  "active": "45200ed01c391e61",
   "lastOpenFiles": [
     "Organize & Record/文獻整理.md",
     "Organize & Record/Rough set theory.md",
