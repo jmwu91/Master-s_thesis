@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "06bb88d32e409058",
+        "id": "f9b99250ea9083cd",
         "type": "tabs",
         "children": [
           {
-            "id": "45200ed01c391e61",
+            "id": "997626b0c09e9100",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reserch process/2. Literature review/文獻筆記/MaaS/大數據分析應用於交通行動服務高雄 MeNGo 月票之顧客分群研究.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reserch process/2. Literature review/文獻筆記/MaaS/大數據分析應用於交通行動服務高雄 MeNGo 月票之顧客分群研究.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reserch process/2. Literature review/文獻筆記/MaaS/大數據分析應用於交通行動服務高雄 MeNGo 月票之顧客分群研究.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Reserch process/2. Literature review/文獻筆記/MaaS/大數據分析應用於交通行動服務高雄 MeNGo 月票之顧客分群研究.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,10 +149,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5292f4c0bba34dbe",
+  "active": "df8a2392583d07e6",
   "lastOpenFiles": [
-    "研究進度/文獻回顧/Annotation/大數據分析應用於交通行動服務高雄 MeNGo 月票之顧客分群研究.md",
+    "conflict-files-obsidian-git.md",
     "Reserch process/2. Literature review/文獻筆記/MaaS/大數據分析應用於交通行動服務高雄 MeNGo 月票之顧客分群研究.md",
+    "研究進度/文獻回顧/Annotation/大數據分析應用於交通行動服務高雄 MeNGo 月票之顧客分群研究.md",
     "研究進度/文獻回顧/Annotation",
     "研究進度/文獻回顧",
     "研究進度",
@@ -188,7 +181,6 @@
     "RESERC~1/2F456~1.LIT/文獻筆記/MaaS/Predicting Mobility as a Service (MaaS) use for different trip categories：An artificial neural network analysis.md",
     "RESERC~1/2F456~1.LIT/文獻筆記/MaaS/MaaS potential users’ profiles characterization with a K-means clustering algorithm.md",
     "RESERC~1/2F456~1.LIT/文獻筆記/MaaS/Mobility as a service (MaaS)：Charting a future context.md",
-    "RESERC~1/2F456~1.LIT/文獻筆記/MaaS/MaaS 綑綁方案消費者偏好在不同類型城市之比較.md",
     "RESERC~1/2F456~1.LIT/文獻筆記/Smart Card",
     "RESERC~1/2F456~1.LIT/文獻筆記/MaaS",
     "RESERC~1/2F456~1.LIT/文獻筆記",
