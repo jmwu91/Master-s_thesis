@@ -11,15 +11,26 @@
             "id": "997626b0c09e9100",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
                 "file": "Reserch process/References/References.md",
-                "mode": "source",
-                "source": false
+                "staged": true
+              }
+            }
+          },
+          {
+            "id": "dd25555fdad2fd4e",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "staged": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reserch process/References/References.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reserch process/References/References.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Reserch process/References/References.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,16 +164,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "997626b0c09e9100",
+  "active": "dd25555fdad2fd4e",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Reserch process/References/References.md",
     "Reserch process/1. Introduction/研究目的.md",
     "Reserch process/2. Literature review/文獻筆記/MaaS/大數據分析應用於交通行動服務高雄 MeNGo 月票之顧客分群研究.md",
-    "conflict-files-obsidian-git.md",
     "研究進度/文獻回顧/Annotation/大數據分析應用於交通行動服務高雄 MeNGo 月票之顧客分群研究.md",
     "研究進度/文獻回顧/Annotation",
     "研究進度/文獻回顧",
     "研究進度",
-    "Reserch process/References/References.md",
     "Reserch process/3. Methodology/研究方法.md",
     "Organize & Record/文獻整理.md",
     "Organize & Record/Rough set theory.md",
