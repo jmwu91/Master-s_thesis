@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reserch process/1. Introduction/研究目的.md",
+                "file": "Reserch process/References/References.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reserch process/1. Introduction/研究目的.md",
+                "file": "Reserch process/References/References.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reserch process/1. Introduction/研究目的.md",
+                "file": "Reserch process/References/References.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reserch process/1. Introduction/研究目的.md"
+                "file": "Reserch process/References/References.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "45200ed01c391e61",
   "lastOpenFiles": [
+    "Reserch process/1. Introduction/研究目的.md",
     "Organize & Record/文獻整理.md",
     "Organize & Record/Rough set theory.md",
     "Organize & Record/動態時間規整(Dynamic Time Warping, DTW).md",
@@ -194,7 +195,6 @@
     "RESERC~1/2F456~1.LIT/文獻筆記/MaaS/MaaS modelling：a review of factors,  customers’ profiles, choices and business  models.md",
     "RESERC~1/2F456~1.LIT/文獻筆記/MaaS/Framework for the potential userbase of mobility as a service.md",
     "RESERC~1/2F456~1.LIT/文獻筆記/MaaS/Drivers and barriers in adopting Mobility as a Service (MaaS) – A latent class cluster analysis of attitudes.md",
-    "RESERC~1/2F456~1.LIT/文獻筆記/MaaS/Complementing or competing with public transit Evaluating.md",
     "RESERC~1/2F456~1.LIT/文獻筆記/Smart Card",
     "RESERC~1/2F456~1.LIT/文獻筆記/MaaS",
     "RESERC~1/2F456~1.LIT/文獻筆記",
